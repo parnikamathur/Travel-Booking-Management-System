@@ -1,6 +1,5 @@
 
 # Travel Booking Management System
-This project is co-owned by: [@chahelgupta](https://www.github.com/chahelgupta) [@amishidesai](https://www.github.com/AmishiDesai04) [@reneeka](https://www.github.com/reneeka)
 
 ## Introduction
 
